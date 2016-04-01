@@ -47,11 +47,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
-    <Reference Include="Tabster.Core">
-      <HintPath>packages\Tabster.Core.1.0\lib\net35\Tabster.Core.dll</HintPath>
+    <Reference Include="Tabster.Core, Version=1.0.0.33, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>packages\Tabster.Core.1.0.0.33\lib\net35\Tabster.Core.dll</HintPath>
     </Reference>
-    <Reference Include="Tabster.Data">
-      <HintPath>packages\Tabster.Data.1.0\lib\net35\Tabster.Data.dll</HintPath>
+    <Reference Include="Tabster.Data, Version=1.0.3.12, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>packages\Tabster.Data.1.0.3.12\lib\net35\Tabster.Data.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
