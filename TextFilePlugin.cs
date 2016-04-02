@@ -20,7 +20,7 @@ namespace TextFile
 
         public string Copyright
         {
-            get { return "Copyright © Nate Shoffner 2014"; }
+            get { return "Copyright © Nate Shoffner 2016"; }
         }
 
         public string Description
@@ -30,7 +30,7 @@ namespace TextFile
 
         public string DisplayName
         {
-            get { return "Textfile support"; }
+            get { return "TextFile"; }
         }
 
         public TabsterVersion Version
