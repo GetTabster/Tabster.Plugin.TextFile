@@ -9,7 +9,7 @@ using Tabster.Data.Processing;
 
 namespace TextFile
 {
-    internal class TextFileExporter : ITablatureFileExporter
+    public class TextFileExporter : ITablatureFileExporter
     {
         public TextFileExporter()
         {
